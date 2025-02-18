@@ -2,7 +2,7 @@
 
 Use sustAInably to help you recycle your plastic waste with AI!
 
-🔗 [try sustAInably here](https://sustainably-3wi160r81-varshav1s-projects.vercel.app/)
+🔗 [try sustAInably here](https://sustainablyapp.vercel.app/)
 
 ## Features
 
