@@ -45,7 +45,7 @@ export default function Home() {
           content="sustAInably is an AI powered web app that helps you get smarter with recycling your plastic waste through a picture."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://myrecyclingrepo.vercel.app/" />
+        <meta property="og:url" content="https://vercel.com/varshav1s-projects/sustainably/AKE3EGkk499qhxYn3fvD3bX8kvAE" />
         <meta
           property="og:title"
           content="sustAInably - recycle your plastic waste with AI"

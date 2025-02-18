@@ -76,7 +76,7 @@ const Splash = (props) => {
 				<div className={styles.title}>Recycle your plastic better with Artificial Intelligence</div>
 				<div className={styles.subtitle}>Take a picture of a plastic code and learn how to recycle effectively.</div>
 				<div className={styles.button} onClick={() => setGetStarted(true)}>Get started</div>
-				<a className={styles.about} href="https://github.com/pepperpig183-sketch/my_recycling_repo" target="_blank">About</a>
+				<a className={styles.about} href="https://github.com/Varshav1/sustAInably" target="_blank">About</a>
 			</div>
 			}
 		</div>
